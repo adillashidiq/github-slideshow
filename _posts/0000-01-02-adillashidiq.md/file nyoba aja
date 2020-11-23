@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to Our Second Slide!"
 ---
-a = 10
+a = 5
 b = 20
 hasil = a + b
 print(a, "+ ", b, "= ", hasil)
